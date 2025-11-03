@@ -19,6 +19,7 @@ A list of [awesome code.gouv.fr projects](https://code.gouv.fr/fr/awesome) funde
 - [udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
 - [{shinygouv}](https://github.com/spyrales/shinygouv) - Design System de l'Etat pour Shiny
 - [Panoramax](https://gitlab.com/panoramax) - The open-source photo mapping / street view solution
+- [Addok](https://github.com/addok/) - a search engine for addresses (geocoder)
 
 # License
 
